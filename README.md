@@ -1,5 +1,3 @@
-## Tech Stack
-
 - **Languages**: Ruby, Rails, JavaScript, Python
 - **E-commerce**: Solidus, Spree, ActiveMerchant  
 - **Testing**: RSpec, Cucumber
