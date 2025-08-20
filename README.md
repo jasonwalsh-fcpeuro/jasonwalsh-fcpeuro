@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## Tech Stack
 
 - **Languages**: Ruby, Rails, JavaScript, Python
