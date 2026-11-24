@@ -1,4 +1,3 @@
-- **Languages**: Ruby, Rails, JavaScript, Python
-- **E-commerce**: Solidus, Spree, ActiveMerchant  
-- **Testing**: RSpec, Cucumber
-- **Infrastructure**: CircleCI, Docker, AWS
+- **Focus**: release engineering, ephemeral environments, automation, software reliability, property-based and contract testing, agents and evals
+- **Languages**: Ruby, Python, TypeScript, Shell, SQL, Clojure
+- **Stack**: Rails/Solidus, Playwright, RSpec, TLA+, AWS, CDK, Docker, CircleCI, GitHub Actions
