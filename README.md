@@ -1,3 +1,4 @@
-- **Focus**: release engineering, ephemeral environments, automation, software reliability, property-based and contract testing, agents and evals
-- **Languages**: Ruby, Python, TypeScript, Shell, SQL, Clojure
-- **Stack**: Rails/Solidus, Playwright, RSpec, TLA+, AWS, CDK, Docker, CircleCI, GitHub Actions
+- **Specs**: property-based and contract testing, TLA+
+- **Agents**: skills, evals, agent-assisted review
+- **Delivery**: ephemeral environments, automation, safe releases
+- **Languages**: Python, Ruby, TypeScript, Shell, Clojure
